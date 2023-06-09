@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578989709581",
+    "project_id": "trashnow-f3549",
+    "storage_bucket": "trashnow-f3549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578989709581:android:967f91296b78d320c0b844",
+        "android_client_info": {
+          "package_name": "com.optic.uberclonedriverkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578989709581-4m96dhorc39hetcbku3oigo88u16edah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQQzatu8TOvQ6yBr5XVhyxPClddad5Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578989709581-4m96dhorc39hetcbku3oigo88u16edah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

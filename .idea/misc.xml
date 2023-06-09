@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/drawable-v24/ic_email_white.xml" value="0.1" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/drawable-v24/rounded_button.xml" value="0.1235" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/drawable/ic_up_arrow_circle.xml" value="0.1445" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_calification_client.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_histories.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_history_detail.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_main.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_map.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_map_trip.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_profile.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/activity_register.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/cardview_history.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/modal_bottom_sheet_booking.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/modal_bottom_sheet_content.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/modal_bottom_sheet_menu.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/modal_bottom_sheet_trip.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/modal_bottom_sheet_trip_info.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/UberCloneDriverKotlin/app/src/main/res/layout/toolbar.xml" value="0.14537037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="Uber_Clone_Driver_Kotlin.app" />
+      </set>
+    </option>
+  </component>
+</project>
