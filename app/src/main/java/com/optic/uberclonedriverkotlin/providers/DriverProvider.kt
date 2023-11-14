@@ -42,7 +42,7 @@ class DriverProvider {
         }
     }
 
-    fun updateToken(idDriver: String, token: String): Task<Void> {
+    private fun updateToken(idDriver: String, token: String): Task<Void> {
         val map: MutableMap<String, Any> = HashMap()
         map["token"] = token
         return db.document(idDriver).update(map)
